@@ -6,11 +6,13 @@
   </div>
   <h3>💻 Technologies & Tools:</h3>
   <div align="left">
-<img width="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img width="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img width="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+<img width="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+  <img width="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
   <img width="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img width="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img width="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+   <img width="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
+  <img width="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg">
   </div>
 <!--
 **Pixelated-Nelly/Pixelated-Nelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
