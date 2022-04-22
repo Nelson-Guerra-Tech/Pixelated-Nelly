@@ -16,7 +16,7 @@
 - 🇻🇪 Fluent in Spanish, originally from Venezuela
 - 🧑🏻‍💻 Enjoy meeting new people and working with large groups
 - 🏆 Fun Fact: Love competing in Spartan OCR
-- 🌍 I believe technology can change the world in a positive way, I want to be part of developing that world!
+- 🌍 I believe technology can change the world in a positive way, I want to contribute to that world!
 
 <br>
   
