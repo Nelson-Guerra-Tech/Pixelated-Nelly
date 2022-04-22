@@ -1,5 +1,5 @@
 ### Hi there 👋
-<iframe src="https://giphy.com/embed/FY9chKp6rulXy" width="480" height="197" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/galaxy-space-FY9chKp6rulXy">via GIPHY</a></p>
+https://media.giphy.com/media/FY9chKp6rulXy/giphy.gif
 <!--
 **Pixelated-Nelly/Pixelated-Nelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
