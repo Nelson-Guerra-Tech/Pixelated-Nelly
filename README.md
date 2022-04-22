@@ -1,7 +1,9 @@
 <div align="center">
 <img width="1327" alt="Screen Shot 2022-04-22 at 12 44 20 AM" src="https://user-images.githubusercontent.com/62409790/164605193-8f5cb5ee-305c-4be6-ac97-9092adf9d912.png">
   </div>
-### Hi there 👋
+  <div align="center">
+  <h1>Hello World! 👋 I'm Nelson Guerra</h1>
+  </div>
 <!--
 **Pixelated-Nelly/Pixelated-Nelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
