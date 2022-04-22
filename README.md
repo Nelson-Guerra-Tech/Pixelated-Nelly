@@ -1,4 +1,6 @@
+<div align="center">
 <img style="border-radius: 6px;" width="900" alt="Screen Shot 2022-04-22 at 12 13 19 AM" src="https://user-images.githubusercontent.com/62409790/164599587-82448643-0633-4aad-9c06-bdec9b8da901.png">
+  </div>
 ### Hi there 👋
 <!--
 **Pixelated-Nelly/Pixelated-Nelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
