@@ -4,7 +4,7 @@
   <div align="center">
   <h1>Hello World! 👋 I'm Nelson Guerra</h1>
   </div>
-  <h3>Technologies Used:</h3>
+  <h3>💻 Technologies & Tools:</h3>
   <div align="left">
 <img width="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img width="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
