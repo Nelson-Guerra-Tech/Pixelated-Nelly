@@ -1,5 +1,5 @@
 <div align="center">
-<img width="999" alt="Screen Shot 2022-04-22 at 12 34 19 AM" src="https://user-images.githubusercontent.com/62409790/164604573-2e162cbf-d0ab-47dd-b53c-0ae7e73cc5dc.png">
+<img width="700" alt="Screen Shot 2022-04-22 at 12 34 19 AM" src="https://user-images.githubusercontent.com/62409790/164604573-2e162cbf-d0ab-47dd-b53c-0ae7e73cc5dc.png">
   </div>
 ### Hi there 👋
 <!--
